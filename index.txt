@@ -1,2 +1,3 @@
 Hello, I am learning Git.
-Version 1.
+Version 1
+Version 2 - Updated by my friend.
